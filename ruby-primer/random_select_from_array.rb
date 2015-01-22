@@ -1,6 +1,6 @@
 def random_select(array, n)
-  rng1 = rand(n)
-  rng2 = rand(n)
+  rng1 = rand(array.length)
+  rng2 = rand(array.length)
   new_array = Array.new << array[rng1] << array[rng2]  
 end
 
