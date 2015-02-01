@@ -5,4 +5,4 @@ My attempts at the Ruby Monk challenges
 - Metaprogramming Ruby
 - Metaprogramming Ruby: Ascent
 - Understanding Rails (alpha)
-- Practiing Ruby
+- Practising Ruby
